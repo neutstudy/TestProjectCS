@@ -18,7 +18,7 @@ namespace WindowsFormsApplication1
 
         private void buttonHelloWord_Click(object sender, EventArgs e)
         {
-            System.Windows.Forms.MessageBox.Show("Hllo Word!");
+            System.Windows.Forms.MessageBox.Show("Hello World!");
         }
     }
 }
